@@ -1,2 +1,2 @@
 # prueba
-Prueba de un repositorio
+Primer repositorio prueba
